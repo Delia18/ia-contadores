@@ -1,8 +1,10 @@
-import IAContadoresDashboard from './IAContadoresDashboard';
+import LearningOS from './ai-finance-innovation-leader.jsx';
 
 export default function App() {
-  return <IAContadoresDashboard />;
+  return <LearningOS />;
 }
+
+
 
 
 
